@@ -1,7 +1,7 @@
 👋 Hi, I’m Durgesh
 
 - 👀 I’m interested in coding & blogging 
-- 🔰 I’m currently learning class 11th
+- 🔰 I’m currently studying class 11th
 - 📚 I'm JEE Aspirant 
 
 
