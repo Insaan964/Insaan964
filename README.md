@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aparna Singh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rem
 ======================================================================================================================================
 
-B.tech Student
+B.C.A Student
 --------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [aparnasingh29062006@gmail.com](mailto:aparnasingh29062006@gmail.com)
+* ✉️  You can contact me at [durgeshshukla964@gmail.com](mailto:aparnasingh29062006@gmail.com)
 * 🧠  I'm learning C
 * ⚡  I’m hunting for open-source good-first-issues, a beginner-friendly internship, and at least one hackathon
 
