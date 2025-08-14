@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Agent
+# 👋 Hi, I'm Insaan
 
 Aspiring Machine Learning Engineer | Python Enthusiast | Data Science Explorer
 
@@ -38,17 +38,10 @@ I'm currently building my skills in Python, data science, and machine learning t
 
 ---
 
-## ✍️ Blog & Writing
-
-I occasionally translate Hindi shayari into English quotes and explore the poetic side of machine learning. Stay tuned for a creative repo soon!
-
----
-
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [Your Website](https://yourwebsite.com)
+- 📧 Email: durgeshshukla964@gmail.com  
+- 💼 LinkedIn: [Linkdin](https://www.linkedin.com/in/dev-durgesh-shukla)  
 
 ---
 
