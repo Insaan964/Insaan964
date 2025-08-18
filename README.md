@@ -44,9 +44,9 @@ I'm currently building my skills in Python, data science, and machine learning t
 - 💼 LinkedIn: [Linkdin](https://www.linkedin.com/in/dev-durgesh-shukla)  
 
 ---
-## Something
+## Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Insaan964)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Insaan964&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
