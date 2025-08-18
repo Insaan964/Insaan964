@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Insaan
+# 👋 Hi, I'm Durgesh
 
 Aspiring Machine Learning Engineer | Python Enthusiast | Data Science Explorer
 
