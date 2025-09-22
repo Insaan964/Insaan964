@@ -12,10 +12,10 @@
 <p>🔭 I’m currently working on  Agentic AI workflow </p>
 </li>
 <li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
+<p>🌱 I’m currently learning Git, C++</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
+<p>👯 I’m looking to collaborate on Projects</p>
 </li>
 <li>
 <p>💬 Ask me about Sql, Python, C++ </p>
